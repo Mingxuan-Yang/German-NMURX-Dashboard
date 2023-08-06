@@ -1,0 +1,11 @@
+Feature,Definition
+PAIN_ACUTE,Have you ever suffered from acute pain that required you to seek healthcare attention?
+PAIN_CHRONIC,Have you suffered from chronic pain?
+MENT_DEP,"Has a doctor, nurse, or other health professional EVER told you that you had Depression?"
+TOB_USE,Do you smoke now?
+MENT_ADHD,"Has a doctor, nurse, or other health professional EVER told you that you had Attention Deficit Hyperactivity Disorder (ADHD) or Attention Deficit Disorder (ADD)?"
+ALC_USE,How long has it been since you last had alcoholic drinks?
+RXDRUGSAFE_PAIN,Do you believe prescription drugs are safer than illicit drugs to treat pain?
+DEM_INCOME,What is the monthly net income of your household as a whole?
+DEM_HEALTH,Are you currently a healthcare professional (providing care to patients)?
+DEM_STDNT,Are you a student attending any type of university or college within the last 3 months?

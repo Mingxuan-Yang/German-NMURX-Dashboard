@@ -1,0 +1,7 @@
+Feature,Definition
+TOB_USE,Do you smoke now?
+DEM_INCOME,What is the monthly net income of your household as a whole?
+DEM_GENDER,Are you female or male?
+QLANG,Which language you would like to take the survey?
+DEM_PREGMNTH,How many months pregnant are you?
+DEM_PREG,Are you currently pregnant?

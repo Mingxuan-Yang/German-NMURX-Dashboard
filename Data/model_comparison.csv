@@ -1,0 +1,15 @@
+Model,Accuracy,F1,TT (Sec)
+Logistic Regression,0.7021,0.7939,0.49
+Ridge Classifier,0.7014,0.7961,0.014
+Ada Boost Classifier,0.7011,0.7934,0.106
+Linear Discriminant Analysis,0.7011,0.7936,0.039
+Gradient Boosting Classifier,0.7006,0.7948,0.28
+Light Gradient Boosting Machine,0.7001,0.7895,0.133
+Random Forest Classifier,0.6927,0.7846,0.347
+Extreme Gradient Boosting,0.6879,0.7771,13.471
+Extra Trees Classifier,0.6824,0.7733,0.387
+SVM - Linear Kernel,0.6376,0.7001,0.104
+K Neighbors Classifier,0.6234,0.721,0.108
+Decision Tree Classifier,0.6146,0.7052,0.025
+Naive Bayes,0.5068,0.4509,0.014
+Quadratic Discriminant Analysis,0.5017,0.4421,0.024

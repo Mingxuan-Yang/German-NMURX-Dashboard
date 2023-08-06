@@ -1,0 +1,11 @@
+Feature,Definition
+PAIN_ACUTE,Have you ever suffered from acute pain that required you to seek healthcare attention?
+MENT_DEP,"Has a doctor, nurse, or other health professional EVER told you that you had Depression?"
+RXDRUGSAFE_PAIN,Do you believe prescription drugs are safer than illicit drugs to treat pain?
+DEM_AGE,How old are you?
+TOB_USE,Do you smoke now?
+PAIN_CHRONIC,Have you suffered from chronic pain?
+RXDRUGSAFE_THER,Do you believe prescription drugs are safer than illicit drugs for other therapeutic purposes?
+MENT_ANX,"Has a doctor, nurse, or other health professional EVER told you that you had Anxiety?"
+MENT_ADHD,"Has a doctor, nurse, or other health professional EVER told you that you had Attention Deficit Hyperactivity Disorder (ADHD) or Attention Deficit Disorder (ADD)?"
+MENT_PANIC,"Has a doctor, nurse, or other health professional EVER told you that you had Panic Disorder?"
