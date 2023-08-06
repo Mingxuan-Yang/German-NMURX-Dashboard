@@ -77,7 +77,7 @@ if session == "Introduction":
     
     - EDA
     - Predictive Model
-    - Causal Inference.
+    - Causal Inference
     
     In the EDA section, we tried plots between pairs of variables to find intuitions. 
     After trial, we decided to analyze the relationship between drug use in certain 
